@@ -1,0 +1,91 @@
+# 💻 Desenvolvedor(a) de Software
+
+Repositório dedicado ao meu aprendizado, projetos e evolução como **Desenvolvedora de Software**, com foco em **programação, lógica, dados e boas práticas de desenvolvimento**.
+
+---
+
+## 🎯 Objetivo
+
+Este repositório tem como objetivo:
+- Consolidar fundamentos de desenvolvimento de software
+- Aplicar conceitos de programação na prática
+- Desenvolver projetos reais para portfólio
+- Evoluir continuamente como profissional de tecnologia
+
+---
+
+## 🧠 Áreas de Conhecimento
+
+- Lógica de Programação
+- Programação Orientada a Objetos (POO)
+- Estruturas de Dados
+- Desenvolvimento Web
+- Análise e Manipulação de Dados
+- Versionamento de Código
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Python**
+- **JavaScript**
+- **HTML & CSS**
+- **SQL**
+- **Git & GitHub**
+- **Pandas / NumPy**
+- **APIs REST**
+
+---
+
+## 📁 Estrutura do Repositório
+
+│
+├── fundamentos/
+│ ├── logica_programacao/
+│ └── estruturas_dados/
+│
+├── projetos/
+│ ├── projeto_web/
+│ ├── projeto_dados/
+│ └── projeto_jogos/
+│
+├── estudos/
+│ ├── algoritmos/
+│ └── boas_praticas/
+│
+├── README.md
+└── requirements.txt
+
+---
+
+## 🚀 Projetos em Destaque
+
+- 📊 **Projetos de Análise de Dados**
+- 🌐 **Aplicações Web**
+- 🎮 **Jogos simples para prática de lógica**
+- ⚙️ **Scripts e automações**
+
+Cada projeto possui:
+- Código organizado
+- README explicativo
+- Objetivo claro
+- Tecnologias utilizadas
+
+---
+
+## 📚 Metodologia de Estudo
+
+- Aprendizado contínuo
+- Projetos práticos
+- Versionamento frequente
+- Refatoração e melhoria constante do código
+
+---
+
+## 📈 Em Evolução
+
+Este repositório está em constante atualização conforme novos conhecimentos e projetos são desenvolvidos.
+
+---
+
+✨ *“Constância vence motivação.”*
